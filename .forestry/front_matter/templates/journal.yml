@@ -1,0 +1,22 @@
+---
+label: journal
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  default: ''
+  label: Title
+  hidden: false
+  type: text
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  config:
+    required: true
+- name: date
+  default: ''
+  label: Date
+  hidden: true
+  type: datetime
+  config:
+    required: true

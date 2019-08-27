@@ -1,0 +1,39 @@
+{
+  "title": "Hyunjin Nam",
+  "description": "Creative Agency",
+  "logo": "/upload/logo.svg",
+  "footer": "Hyunjin Nam",
+  "favicon": "favicon-32x32.png",
+  "navigation": [
+    {
+      "text": "Works",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Journal",
+      "link": "/journal",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Instagram",
+      "link": "https://www.instagram.com/hyunjinnam0.0",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "link": "https://www.linkedin.com/in/hyunjin-nam-5bb44a152/",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "Say hi!",
+      "link": "mailto:jinanam0116@gmail.com",
+      "position": "right",
+      "external": true
+    }
+  ]
+}

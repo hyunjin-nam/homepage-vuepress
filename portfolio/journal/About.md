@@ -1,0 +1,33 @@
+---
+title: About Hyunjin Nam
+date: 2018-08-09 17:49:28 +0000
+excerpt: This works like expected, this text is only visible on the front page where
+  all the journal posts are listed
+categories:
+- thesis
+---
+
+# Welcome!
+
+
+
+### About me
+
+I am a data scientist with a background in statistics, works in R and Python 👩🏻‍💻. I am specialized in machine learning applications in digital health 💊. By using Statistical approach, I am building a machine learning model to predict diseases, which can allow physicians and health care professionals to get support to diagnosis. I enjoy machine learning, web programming, and play around with data.
+
+
+You can check more about me in  `aboutme.json` file 😊
+
+
+
+    {
+      "name": "Hyunjin Nam",
+      "resourceType" : "Data Scientist",
+      "contacts" : [{ 
+        "homepage" : "hyunjinnam.com"
+        "city": "Stockholm",
+        "email": "jinanam0116@naver.com"
+    }
+
+
+This site is powered by [vuepress](https://vuepress.vuejs.org/) using [porfolio-vuepress](https://github.com/forestryio/portfolio-vuepress).
