@@ -25,5 +25,6 @@ You can find more about my blog post on the official Studyinsweden site below ðŸ
 
 
 
-<object  width= 100% height = 600 type="text/html" data="http://blogs.studyinsweden.se/author/hyunjin/">
+<object data="http://blogs.studyinsweden.se/author/hyunjin/" type="text/html" width=100% height="700px">
+  <p> Click  <a href=http://blogs.studyinsweden.se/author/hyunjin/"> to reach the page!</a></p>
 </object>
