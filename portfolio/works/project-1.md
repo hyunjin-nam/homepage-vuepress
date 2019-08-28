@@ -19,3 +19,8 @@ description: Master's thesis
   <p> Click  <a href="thesis.pdf"> to reach the PDF!</a></p>
 </object>
 
+
+<object data='/upload/thesis.pdf'>
+    <p>Oops! You don't support PDFs on the device!</p>
+    <p><a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download Instead</a>
+</object>
