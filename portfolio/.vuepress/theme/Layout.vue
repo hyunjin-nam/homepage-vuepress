@@ -46,7 +46,7 @@
   export default {
     computed: {
       isSingleProject() {
-        const worksRoute = '/works/'
+        const worksRoute = '/'
         const path = this.$route.path
         if (path.includes('works') && path.length >= (worksRoute.length + 1)) {
           return true
