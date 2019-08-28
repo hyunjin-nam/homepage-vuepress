@@ -16,11 +16,24 @@ description: Master's thesis
 
 
 <object data="/upload/thesis.pdf" type="application/pdf" width=100% height="700px">
-  <p> Click  <a href="thesis.pdf"> to reach the PDF!</a></p>
+    <p>Oops! You don't support PDFs on the device!</p>
+    <p><a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download Instead</a>
 </object>
 
 
-<object data='/upload/thesis.pdf'>
-    <p>Oops! You don't support PDFs on the device!</p>
-    <p><a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download Instead</a>
+
+2
+3
+4
+5
+6
+
+12
+13
+14
+<object data="/upload/thesis.pdf"  type="application/pdf"  width="100%" height="700px">
+  <iframe   src="/upload/thesis.pdf"   width="100%"  height="700px"  style="border: none;">
+    <p>Oops! Your browser does not support PDFs.
+      <a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download the PDF</a>.</p>
+  </iframe>
 </object>
