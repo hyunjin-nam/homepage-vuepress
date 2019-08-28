@@ -18,19 +18,22 @@ You can check more about me 😊
       "name": "Hyunjin Nam", 
       "resourceType" : "Data Scientist 👩🏻‍💻",
       "contacts" : [{ 
-        "homepage" : "hyunjinnam.com"
+        "homepage" : "hyunjinnam.com",
         "city": "Stockholm" 🏠,
-        "email": "jinanam0116@gmail.com" 💌}],
+        "email": "jinanam0116@gmail.com" 💌
+        }],
       "skills" : [{
-        "programming" : "Python" 🐍, "R", "SAS",
-        "databases" : "MySQL", "MongoDB", "PostgreSQL",
-        "data analysis": "TensorFlow", "Pandas" 🐼, "Numpy", "Matplotlib", "Scikit-learn"
-        "web development": "Vuepress", "HTML5", "jQuery"
-        "others": "Tableau", "Adobe Premiere", "Adobe Lightroom ⚡", "Adobe Photoshop" }],
+        "programming" : ["Python" 🐍, "R", "SAS"],
+        "databases" : ["MySQL", "MongoDB", "PostgreSQL"],
+        "data analysis": ["TensorFlow", "Pandas" 🐼, "Numpy", "Matplotlib", "Scikit-learn" 📊],
+        "web development": ["Vuepress" 🌐, "HTML5", "CSS", "jQuery"],
+        "others": ["Tableau" 📈, "Adobe Premiere", "Adobe Lightroom" ⚡, "Adobe Photoshop" 📸]
+        }],
       "languages" : [{
-        "English" 🇬🇧 : ● ● ● ● ○,
-        "Korean" 🇰🇷  : ● ● ● ● ●,
-        "Swedish" 🇸🇪 : ● ○ ○ ○ ○ }]
+        "English" 🇬🇧: [ ● ● ● ● ○ ],
+        "Korean" 🇰🇷: [ ● ● ● ● ● ],
+        "Swedish" 🇸🇪: [ ● ○ ○ ○ ○ ]
+        }]
     }
 
 
