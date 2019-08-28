@@ -1,7 +1,7 @@
 ---
 title: About me
 date: 2018-08-09 17:49:28 +0000
-excerpt: Fine more about me
+excerpt: Find more about me
 
 ---
 # Welcome!

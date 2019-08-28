@@ -15,8 +15,15 @@ description: Master's thesis
 
 Click [Here](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1323917&dswid=-7519) to read the thesis.
 
-<object data="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf" type="application/pdf" width=100% height="700px">
-    <embed src="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">
-        <p>Predicting Diabetes Using Tree-based Methods <a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+
+
+<html>
+      <head>
+        <object data="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf" type="application/pdf" width=100% height="700px">
+            <embed src="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">
+                <p>Predicting Diabetes Using Tree-based Methods <a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download PDF</a>.</p>
+            </embed>    
+        </object>   
+      </head>
+</html>
