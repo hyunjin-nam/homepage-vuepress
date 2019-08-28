@@ -15,26 +15,26 @@ description: Master's thesis
 
 Click [Here](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1323917&dswid=-7519) to read the thesis.
 
+1
+<object data="/upload/thesis.pdf" type="application/pdf" width="100%" height="100%">
+  <p>Alternative text - include a link <a href="thesis.pdf">to the PDF!</a></p>
+</object>
 
-<html>
-      <head>
-        <object data="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf" type="application/pdf" width=100% height="700px">
-            <embed src="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">
-                <p>Predicting Diabetes Using Tree-based Methods <a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download PDF</a>.</p>
-            </embed>    
-        </object>   
-      </head>
-</html>
 
-```html
+
+
+2
   <object data="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf" type="application/pdf" width=100% height="700px">
             <embed src="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">
                 <p>Predicting Diabetes Using Tree-based Methods <a href="http://uu.diva-portal.org/smash/get/diva2:1323917/FULLTEXT01.pdf">Download PDF</a>.</p>
             </embed>    
         </object>   
 
-```
+
+
+[Intro.pdf](https://github.com/hyunjin-nam/homepage-vuepress/blob/master/portfolio/.vuepress/public/upload/thesis.pdf)
 
 
 
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+
+https://docs.google.com/viewer?url=${https://github.com/hyunjin-nam/homepage-vuepress/blob/master/portfolio/.vuepress/public/upload/thesis.pdf}
