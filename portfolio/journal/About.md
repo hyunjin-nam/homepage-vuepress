@@ -12,11 +12,10 @@ categories:
 
 
 ### About me
-
 I am a data scientist with a background in statistics, works in R and Python 👩🏻‍💻. I am specialized in machine learning applications in digital health 💊. By using Statistical approach, I am building a machine learning model to predict diseases, which can allow physicians and health care professionals to get support to diagnosis. I enjoy machine learning, web programming, and play around with data.
 
 
-You can check more about me in  `aboutme.json` file 😊
+You can check more about me 😊
 
 
 
@@ -26,8 +25,19 @@ You can check more about me in  `aboutme.json` file 😊
       "contacts" : [{ 
         "homepage" : "hyunjinnam.com"
         "city": "Stockholm",
-        "email": "jinanam0116@naver.com"
+        "email": "jinanam0116@gmail.com"}],
+      "skills" : [{
+        "programming" : "Python", "R", "SAS",
+        "databases" : "MySQL", "MongoDB", "PostgreSQL",
+        "data analysis": "TensorFlow", "Pandas", "Numpy", "Matplotlib", "Scikit-learn"
+        "web development": "Vuepress", "HTML5", "jQuery"
+        "others": "Tableau", "Adobe Premiere", "Adobe Lightroom", "Adobe Photoshop" }],
+      "languages" : [{
+        "English" : ● ● ● ● ○,
+        "Korean" : ● ● ● ● ●,
+        "Swedish" : ● ○ ○ ○ ○ }]
     }
 
 
 This site is powered by [vuepress](https://vuepress.vuejs.org/) using [porfolio-vuepress](https://github.com/forestryio/portfolio-vuepress).
+
