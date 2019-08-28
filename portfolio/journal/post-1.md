@@ -1,7 +1,6 @@
 ---
 title: About me
 date: 2018-08-09 17:49:28 +0000
-excerpt: Find more about me
 
 ---
 # Welcome!
@@ -17,7 +16,7 @@ You can check more about me 😊
     {
       "name": "Hyunjin Nam", 
       "resourceType" : "Data Scientist" 👩🏻‍💻,
-      "education" : "Master’s Degree in Statistics at Uppsala University" 
+      "education" : "Master’s Degree in Statistics at Uppsala University"
       "contacts" : [{ 
         "homepage" : "hyunjinnam.com",
         "city": "Stockholm" 🏠,
@@ -39,4 +38,5 @@ You can check more about me 😊
 
 
 This site is powered by [vuepress](https://vuepress.vuejs.org/) using [porfolio-vuepress](https://github.com/forestryio/portfolio-vuepress).
+
 

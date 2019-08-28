@@ -33,3 +33,9 @@ export default {
   }
 
 </style>
+
+<style scoped>
+h1{
+    font-style: bold;
+}
+</style>
