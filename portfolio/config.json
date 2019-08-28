@@ -13,7 +13,7 @@
     },
     {
       "text": "Journal",
-      "link": "/journal",
+      "link": "/journal/",
       "position": "left",
       "external": false
     },
