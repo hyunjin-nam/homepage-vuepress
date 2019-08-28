@@ -1,40 +1,38 @@
 ---
-title: Content management and auto deployment for vuepress
+title: About me
 date: 2018-08-09 17:49:28 +0000
-excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+excerpt: Fine more about me
 
 ---
-# Content management and auto deployment for Vuepress
+# Welcome!
 
-Let's check out how we can automatically deploy our vuepress sites and manage the content from within Forestry.
+### About me
+I am a data scientist with a background in statistics, works in R and Python 👩🏻‍💻. I am specialized in machine learning applications in digital health 💊. By using Statistical approach, I am building a machine learning model to predict diseases, which can allow physicians and health care professionals to get support to diagnosis. I enjoy machine learning, web programming, and play around with data.
 
-### Preparing our vuepress site
 
-We need to create a `package.json` file in the root of our project, this will include the build command and list vuepress as a dependency.
+You can check more about me 😊
+
+
 
     {
-      "name": "project-name",
-      "scripts": {
-        "site:build": "vuepress build"
-      },
-      "author": "Nichlas W. Andersen",
-      "license": "MIT",
-      "dependencies": {
-        "vuepress": "^0.14.1"
-      }
+      "name": "Hyunjin Nam",
+      "resourceType" : "Data Scientist",
+      "contacts" : [{ 
+        "homepage" : "hyunjinnam.com"
+        "city": "Stockholm",
+        "email": "jinanam0116@gmail.com"}],
+      "skills" : [{
+        "programming" : "Python", "R", "SAS",
+        "databases" : "MySQL", "MongoDB", "PostgreSQL",
+        "data analysis": "TensorFlow", "Pandas", "Numpy", "Matplotlib", "Scikit-learn"
+        "web development": "Vuepress", "HTML5", "jQuery"
+        "others": "Tableau", "Adobe Premiere", "Adobe Lightroom", "Adobe Photoshop" }],
+      "languages" : [{
+        "English" : ● ● ● ● ○,
+        "Korean" : ● ● ● ● ●,
+        "Swedish" : ● ○ ○ ○ ○ }]
     }
 
-Now, push it up to your remote git repository.
 
-### Deploying with Netlify
+This site is powered by [vuepress](https://vuepress.vuejs.org/) using [porfolio-vuepress](https://github.com/forestryio/portfolio-vuepress).
 
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `npm run site:build`
-3. Set the publish directory to `portfolio/.vuepress/dist`
-
-### Manage your content with Forestry
-
-Well, not much to do here really, this theme is pre-configured and works out of the box with Forestry. Create an account at [Forestry](https://forestry.io "Forestry") and import your repository.
-
-That's it, that's all. Enjoy your new site!
