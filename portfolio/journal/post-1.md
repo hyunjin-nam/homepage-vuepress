@@ -16,7 +16,8 @@ You can check more about me 😊
 
     {
       "name": "Hyunjin Nam", 
-      "resourceType" : "Data Scientist 👩🏻‍💻",
+      "resourceType" : "Data Scientist" 👩🏻‍💻,
+      "education" : "Master’s Degree in Statistics at Uppsala University" 
       "contacts" : [{ 
         "homepage" : "hyunjinnam.com",
         "city": "Stockholm" 🏠,
