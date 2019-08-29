@@ -21,10 +21,7 @@ module.exports = {
     '@vuepress/google-analytics',
     {
       'ga': '' // UA-81363724-1
-    },
-    'vuepress-plugin-hotjar': {
-      id: 954147
-    },
+    }
   ]
 ]
 };
