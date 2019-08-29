@@ -10,12 +10,13 @@ title: Data
 
 I am a <strong>data scientist</strong> with a background in <strong>statistics</strong>. I am specialized in machine learning applications in <strong>digital health</strong>. By using Statistical approach, I am building a machine learning model to predict diseases, which can allow physicians and health care professionals to get support to diagnosis. I enjoy <strong>machine learning</strong>, web programming, and play around with data. You can check more about me on the link below 👇
 
+<p width=50%>
 
-```html wrap
+```json
     {
       "name": "Hyunjin Nam", 
       "resourceType" : "Data Scientist" 👩🏻‍💻,
-      "education" : "Master’s Degree in Statistics at Uppsala University"
+      "education" : "Master’s Degree in Statistics at Uppsala University",
       "contacts" : [{ 
         "homepage" : "hyunjinnam.com",
         "city": "Stockholm" 🏠,
@@ -36,12 +37,7 @@ I am a <strong>data scientist</strong> with a background in <strong>statistics</
     }
 ```
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
+</p>
 
 
 

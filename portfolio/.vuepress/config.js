@@ -12,8 +12,12 @@ module.exports = {
     ['link', { rel: "icon", href: config.favicon }]
   ],
   markdown: {
+    lineNumbers: true,
     anchor: {
       permalink: false
     }
   }
 };
+
+
+

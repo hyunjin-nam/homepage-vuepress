@@ -41,9 +41,3 @@ h1{
 </style>
 
 
-<style scoped>
-.md:not(.use-csslab) pre code.wrap {
-  white-space: pre-wrap;
-  font-size:100
-}
-</style>
