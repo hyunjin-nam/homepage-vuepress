@@ -11,7 +11,7 @@ description: Master's thesis
 ***
 
 ## Artificial intelligence in medical diagnositcs
-### Internship as a AI developer at Byon8
+### Internship as an AI developer at Byon8
 
 Byon8 is a health tech company using artificial intelligence in medical diagnostics. With our product AITOPYA, healthcare professionals are provided with diagnostic suggestions from AI engine to ensure secure diagnoses, recommendations and treatments. Also, we are working for de-centralized health care service, currently in the process of providing several services to developing countries such as Uganda. 
 
