@@ -39,3 +39,11 @@ h1{
     font-style: bold;
 }
 </style>
+
+
+<style scoped>
+.md:not(.use-csslab) pre code.wrap {
+  white-space: pre-wrap;
+  font-size:100
+}
+</style>
