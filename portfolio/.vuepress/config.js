@@ -15,6 +15,11 @@ module.exports = {
     anchor: {
       permalink: false
     }
+  },
+  plugins: {
+    'vuepress-plugin-hotjar': {
+      id: 954147
+    },
   }
 };
 
