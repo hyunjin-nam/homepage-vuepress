@@ -180,11 +180,11 @@
 
 @media screen and (max-width: 600px) {
   h1 {
-    margin: 20vw auto 7vw auto;
-    font-size: 2rem;
+    margin: 25vw auto 6vw auto;
+    font-size: 1.9rem;
   }
   p {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
   }
 
   code {

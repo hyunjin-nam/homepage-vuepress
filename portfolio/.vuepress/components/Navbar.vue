@@ -183,11 +183,12 @@
     transform: translateY(-100%);
     transition: transform 0.35s ease-in-out;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
     line-height: 2;
+    opacity: 0.97;
   }
 
   .mobile-nav li {

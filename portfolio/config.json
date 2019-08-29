@@ -2,18 +2,12 @@
   "title": "Hyunjin Nam",
   "description": "Creative Agency",
   "logo": " ",
-  "footer": "Hyunjin Nam",
+  "footer": "☺︎ Hyunjin Nam",
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
       "text": "Works",
       "link": "/",
-      "position": "left",
-      "external": false
-    },
-    {
-      "text": "Journal",
-      "link": "/journal/",
       "position": "left",
       "external": false
     },
