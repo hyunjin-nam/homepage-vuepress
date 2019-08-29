@@ -173,12 +173,25 @@
     background: var(--color-black);
     font-size: 0.8rem;
     padding: 0.05rem 0.25rem;
-    font-weight: 400;
-    width: 10%;
-    white-space: pre-wrap;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
   }
 
+@media screen and (max-width: 600px) {
+  h1 {
+    margin: 20vw auto 7vw auto;
+    font-size: 2rem;
+  }
+  p {
+    font-size: 0.9rem;
+  }
 
+  code {
+    font-size: 0.65rem;
+  }
 
+  }
 
 </style>
+
