@@ -174,6 +174,11 @@
     font-size: 0.8rem;
     padding: 0.05rem 0.25rem;
     font-weight: 400;
+    width: 10%;
+    white-space: pre-wrap;
   }
+
+
+
 
 </style>
