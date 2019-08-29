@@ -2,7 +2,7 @@
   <div class="header">
 
     <div class="column">
-      <Label class="label">Project</Label>
+      <Label class="label">Role</Label>
       <span class="value">{{ title }}</span>
     </div>
 
@@ -12,7 +12,7 @@
     </div>
 
     <div class="column">
-      <Label class="label">Categories</Label>
+      <Label class="label">Organization</Label>
       <span class="value categories" v-for="category in categories" v-text="category" />
     </div>
 
