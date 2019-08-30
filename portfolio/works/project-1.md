@@ -1,5 +1,5 @@
 ---
-title: AI Developer
+title: Artificial intelligence in medical diagnositcs
 date: 2019-06-01 00:00:00 +0000
 thumbnail: "/upload/blogpost1/img0.jpg"
 year: 2019.01 - 
@@ -8,16 +8,6 @@ categories:
 description: Master's thesis
 ---
 
-***
-
-## Artificial intelligence in medical diagnositcs
-### Internship as an AI developer at Byon8
-
-Byon8 is a health tech company using artificial intelligence in medical diagnostics. With our product AITOPYA, healthcare professionals are provided with diagnostic suggestions from AI engine to ensure secure diagnoses, recommendations and treatments. Also, we are working for de-centralized health care service, currently in the process of providing several services to developing countries such as Uganda. 
-
-As a part of the AI team in Byon8, I have been responsible for data preprocessing,  data mining, and building a predictive model using a wide variety of machine learning models. I had an opportunity to stepped into the industry where I can have hands-on experience in implementing production machine learning systems, and also a solid understanding of ML theory. During the internship, I wrote my Master's thesis about building a tree-based model that can help diagnose diabetes.
-
-***
 
 ## Predicting Diabetes Using Tree-based Methods
 ### Thesis for degree of Master (Uppsala University, Department of Statistics)
