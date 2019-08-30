@@ -20,10 +20,10 @@ module.exports = {
   [
     '@vuepress/google-analytics',
     {
-      'ga': '' // UA-81363724-1
+      'ga': 'UA-81363724-1' // UA-81363724-1
     },
-    'vuepress-plugin-hotjar',{
-      id: 954147
+    'vuepress-plugin-hotjar': {
+      id: 954147 // Hotjar site id here
     },
 
   ]
