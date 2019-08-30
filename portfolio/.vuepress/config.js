@@ -15,16 +15,7 @@ module.exports = {
     anchor: {
       permalink: false
     }
-  },
- plugins: [
-  [
-    '@vuepress/google-analytics',
-    {
-      'ga': 'UA-122674730-1' // UA-122674730-1
-    }
-
-  ]
-]
+  }
 };
 
 
