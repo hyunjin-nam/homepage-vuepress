@@ -178,6 +178,11 @@
     overflow-x: auto;
   }
 
+  em {
+    font-size: 0.8rem;
+  }
+
+
 @media screen and (max-width: 600px) {
   h1 {
     margin: 25vw auto 6vw auto;

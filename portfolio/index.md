@@ -38,6 +38,17 @@ I am a data scientist with a background in <strong>statistics</strong>. I am spe
 
 
 
+### Occupation
+
+
+ **Byon8** *Jan 2019 - Present* 
+ `AI Developer`
+  As a part of the AI team in Byon8, I have been responsible for data preprocessing, data mining, and building a predictive model using a wide variety of machine learning models. I had an opportunity to stepped into the industry where I can have hands-on experience in implementing production machine learning systems, and also a solid understanding of ML theory. During the internship, I wrote my Master’s thesis about building a tree-based model that can help diagnose diabetes.
+
+**Svenska Institutet**  *Sep 2017 - Jun 2019* 
+`Digital Ambassador`
+ I was part of blog&Instagram team as a digital ambassador, responsible for writing blog posts for the Study in Sweden blog. Also had a responsibility of managing official Instagram account @Studyinsweden for posting photos, uploading stories and taking part in Live broadcasts. Also, work with responding to user comments and answer e-mail questions from prospective students.
+
 
 
 <Hero :text="$page.frontmatter.hero_text" />
