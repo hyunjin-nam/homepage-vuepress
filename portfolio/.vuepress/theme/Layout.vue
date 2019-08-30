@@ -156,6 +156,12 @@
     margin: 2rem auto 1rem auto;
   }
 
+  h5 {
+    margin: -2rem auto 3rem auto;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
   p {
     font-size: 1rem;
     line-height: 1.5;
@@ -180,6 +186,7 @@
 
   em {
     font-size: 0.8rem;
+
   }
 
 
