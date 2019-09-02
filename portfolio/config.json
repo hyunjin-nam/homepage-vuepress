@@ -31,6 +31,12 @@
       "external": true
     },
     {
+      "text": "Download CV",
+      "link": "/upload/document-cv.pdf",
+      "position": "right",
+      "external": true
+    },
+    {
       "text": "Say hi!",
       "link": "mailto:jinanam0116@gmail.com",
       "position": "right",

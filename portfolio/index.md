@@ -9,7 +9,7 @@ title: Data
 <h1 align="center"> I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create content. </h1>
 
 
-I am a data scientist with a background in <strong>statistics</strong>. I am specialized in machine learning applications in <strong>digital health</strong>. By using statistical approach, I am building a predicting model to help physicians and health professional get support to diagnosis. I enjoy <strong>machine learning</strong>, web programming, and play around with data. You can check more about me below 👇
+I am a data scientist with a background in <strong>statistics</strong>, working mainly with Python and R. I am specialized in machine learning applications in <strong>digital health</strong>. By using statistical approach, I am building a predicting model to help physicians and health professional get support to diagnosis. I enjoy <strong>machine learning</strong>, web programming, and play around with data. You can check more about me below 👇
 
 
 
@@ -35,6 +35,7 @@ I am a data scientist with a background in <strong>statistics</strong>. I am spe
         "Swedish" 🇸🇪: [ ● ○ ○ ○ ○ ]
         }]
     }
+
 
 
 
