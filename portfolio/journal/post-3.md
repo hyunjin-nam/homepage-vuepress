@@ -1,7 +1,7 @@
 ---
-title: Artipelag
+title: Artipelag 🏝
 date: 2018-09-01 00:00:00 +0000
-thumbnail: "/upload/blogpost3/img0.jpg"
+thumbnail: "/upload/artipelag/img0.jpg"
 year: 2018
 description: Blog Post
 categories:
@@ -10,12 +10,12 @@ categories:
 ---
 # Artipelag, My favourite museum in Sweden
 
-![](/upload/blogpost3/img1.jpg)
+![](/upload/artipelag/img1.jpg)
 
 The most beautiful nature in Sweden is in the archipelago. Stockholm consists of 3000 islands called Archipelago. The Stockholm is made up of four large islands, and if you take a 20-minute drive outside, you can see thousands of islands of varying shapes and sizes. Today, I would like to introduce the Art Museum called Artipelag, where you can enjoy the beauty of the Swedish archipelago and modern art at the same time.
 
 ##  Island and Museum
-![](/upload/blogpost3/img2.jpg)
+![](/upload/artipelag/img2.jpg)
 Photo Credit: artipelag.se
 
 There are a lot of museums and art galleries in Sweden. There are 17 museums in even in Uppsala and needless to say, the capital city, Stockholm, has so many unique museums or galleries. I always try to explore many places as possible, but still, there are a lot of places that are still left in my ‘Want to Go List’.
@@ -26,28 +26,28 @@ Artipelag is a museum where nature and Swedish culture can be enjoyed at once. T
 ## Archipelago
 As mentioned before, there are 3,000 small islands in Stockholm. The photos on the left below are the islands of Stockholm taken from an aeroplane. If you take a flight to Arlanda Airport, you will be able to see these little islands in the sky just before arrival.
 
-![](/upload/blogpost3/img3.jpg)
+![](/upload/artipelag/img3.jpg)
 Photo Credit: en.wikipedia.org/wiki/Stockholm_archipelago
 
-![](/upload/blogpost3/img4.jpg)
+![](/upload/artipelag/img4.jpg)
 Photo Credit: Hyunjin Nam
 
 Artipelag is like a perfect package to enjoy Swedish nature. Fresh air, seaside, and a variety of plant-growing mountain. I went to Artipelag on a beautiful early summer day, and people were sitting on the beach enjoying the sunshine. Some even went swimming in the water even though it was not hot enough for swimming. I also wanted to get into the water too, but I’m afraid that I haven’t taken extra clothes.
 
-![](/upload/blogpost3/img5.jpg)
+![](/upload/artipelag/img5.jpg)
 Photo Credit: Hyunjin Nam
 
 At the back of the Artipelag, there is a wooden walkway along with seaside for 800 meters. If you follow this road, you will catch the view of the beautiful sea and consequently head to the mountain.
 
-![](/upload/blogpost3/img6.jpg)
+![](/upload/artipelag/img6.jpg)
 Photo Credit: Hyunjin Nam
 
-![](/upload/blogpost3/img7.jpg)
+![](/upload/artipelag/img7.jpg)
 Photo Credit: Hyunjin Nam
 
 If you are lucky enough, you might also be able to see blueberries or mushroom in the mountain. I once wanted to find blueberries here, so I walked on the forest, but it was too early for the blueberries. But I guess now you might be able to find some mushrooms or berries!
 
-![](/upload/blogpost3/img8.jpg)
+![](/upload/artipelag/img8.jpg)
 Photo Credit: Hyunjin Nam
 
  
@@ -61,10 +61,10 @@ The Bloomberg group lived together while keeping the interior beautiful, and the
 
  
 
-![](/upload/blogpost3/img9.jpg)
+![](/upload/artipelag/img9.jpg)
 Photo Credit: Hyunjin Nam
 
-![](/upload/blogpost3/img10.jpg)
+![](/upload/artipelag/img10.jpg)
 Photo Credit: Hyunjin Nam
 
  
@@ -74,16 +74,16 @@ Interestingly, Artipelag finds eating food as an activity. Eating was made to be
 
  
 
-![](/upload/blogpost3/img11.jpg)
+![](/upload/artipelag/img11.jpg)
 Photo Credit: Hyunjin Nam
 
-![](/upload/blogpost3/img12.jpg)
+![](/upload/artipelag/img12.jpg)
 Photo Credit: Hyunjin Nam
 
-![](/upload/blogpost3/img13.jpg)
+![](/upload/artipelag/img13.jpg)
 Photo Credit: Hyunjin Nam
 
-![](/upload/blogpost3/img14.jpg)
+![](/upload/artipelag/img14.jpg)
 Photo Credit: Hyunjin Nam
 
  
