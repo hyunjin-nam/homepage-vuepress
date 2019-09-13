@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "vuepress": "^0.14.1",
+    "vuepress-plugin-clean-urls": "^1.0.3",
     "webpack-dev-middleware": "3.6.0"
   },
   "devDependencies": {

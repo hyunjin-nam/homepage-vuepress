@@ -1,5 +1,11 @@
 const config = require('../config.json');
 module.exports = {
+  plugins: {
+    'clean-urls': {
+      normalSuffix: '',
+      indexSuffix: '',
+    },
+  },
   title: config.title,
   description: config.description,
   base: "/",

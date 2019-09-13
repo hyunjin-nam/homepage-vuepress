@@ -2,6 +2,7 @@
 works_index: true
 1hero_text: "I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create content."
 title: Data
+permalink: /
 
 ---
 
