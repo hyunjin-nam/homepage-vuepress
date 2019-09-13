@@ -3,6 +3,12 @@ module.exports = {
   title: config.title,
   description: config.description,
   base: "/",
+  plugins: {
+    'clean-urls': {
+      normalSuffix: '',
+      indexSuffix: '',
+    },
+  },
   themeConfig: {
     logo: config.logo,
     footer: config.footer,
