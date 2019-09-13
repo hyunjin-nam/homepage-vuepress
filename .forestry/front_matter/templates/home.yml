@@ -12,7 +12,5 @@ fields:
   label: Hero text
   config:
     wysiwyg: true
-    #schema:
-     # format: html
 pages:
 - portfolio/index.md
