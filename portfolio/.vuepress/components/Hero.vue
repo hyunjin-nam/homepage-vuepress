@@ -1,5 +1,5 @@
 <template>
-  <h1 v-if="text" class="title" v-html="text" />
+  <h1 v-if="text" class="title" v-="text" />
 </template>
 
 <script>
