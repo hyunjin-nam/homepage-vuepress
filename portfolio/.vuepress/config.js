@@ -1,17 +1,6 @@
 const config = require('../config.json');
 module.exports = {
   plugins: {
-    'sitemap': {
-      hostname: 'https://pake.web.id',
-      urls:
-        type: array
-        required: false
-        default: [],
-        description: custom urls to append
-        example: [
-          { url: '/place', changefreq: 'montly'}
-                  ]
-    },
     'clean-urls': {
       normalSuffix: '',
       indexSuffix: '',
