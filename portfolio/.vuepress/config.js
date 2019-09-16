@@ -2,7 +2,7 @@ const config = require('../config.json');
 module.exports = {
   plugins: {
     'sitemap': {
-      hostname: 'https://pake.web.id'
+      hostname: 'https://hyunjinnam.com'
     },
     'clean-urls': {
       normalSuffix: '',
