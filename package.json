@@ -9,6 +9,7 @@
   "dependencies": {
     "vuepress": "^0.14.1",
     "vuepress-plugin-clean-urls": "^1.0.3",
+    "vuepress-plugin-sitemap": "^2.1.2",
     "webpack-dev-middleware": "3.6.0"
   },
   "devDependencies": {

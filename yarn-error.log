@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.17.3/libexec/bin/yarn.js add -D @vuepress/vuepress-plugin-hotjar
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.17.3/libexec/bin/yarn.js add vuepress-plugin-sitemap
 
 PATH: 
   /anaconda3/bin:/anaconda3/condabin:~/mongodb-osx-x86_64-enterprise-4.0.10/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/bin:/Users/namhyunjin/server/spark-2.4.3-bin-hadoop2.7:/Users/namhyunjin/server/spark-2.4.3-bin-hadoop2.7/bin:/Users/namhyunjin/server/spark-2.4.3-bin-hadoop2.7/sbin:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/bin:/Users/namhyunjin/server/sbt/bin:/Users/namhyunjin/server/sbt/lib:/Users/namhyunjin/server/scala-2.11.12/bin:/Users/namhyunjin/server/scala-2.11.12/lib:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin
@@ -14,17 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@vuepress%2fvuepress-plugin-hotjar: Not found
-      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:66830:18)
-      at Request.self.callback (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:140464:22)
-      at Request.emit (events.js:198:13)
-      at Request.<anonymous> (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:141436:10)
-      at Request.emit (events.js:198:13)
-      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:141358:12)
-      at Object.onceWrapper (events.js:286:20)
-      at IncomingMessage.emit (events.js:203:15)
-      at endReadableNT (_stream_readable.js:1129:12)
-      at process._tickCallback (internal/process/next_tick.js:63:19)
+  Error: EACCES: permission denied, rmdir '/Users/namhyunjin/homepage-vuepress/node_modules/vuepress/node_modules/.cache/vuepress'
 
 npm manifest: 
   {
@@ -37,6 +27,7 @@ npm manifest:
     "license": "MIT",
     "dependencies": {
       "vuepress": "^0.14.1",
+      "vuepress-plugin-clean-urls": "^1.0.3",
       "webpack-dev-middleware": "3.6.0"
     },
     "devDependencies": {
@@ -7334,6 +7325,11 @@ Lockfile:
       tapable "^1.0.0"
       toposort "^1.0.0"
       util.promisify "1.0.0"
+  
+  vuepress-plugin-clean-urls@^1.0.3:
+    version "1.0.3"
+    resolved "https://registry.yarnpkg.com/vuepress-plugin-clean-urls/-/vuepress-plugin-clean-urls-1.0.3.tgz#87ef2349d6d1f835dc2519abeb0cb99ccf1698a5"
+    integrity sha512-fdsK2e+cTm8mVRm2S8TcnlijPZTX31v61sqUx+4Xiq+KqB05UQlpKI1lz1gte59L8VeDoOE0JjoGXpDFTFlqcQ==
   
   vuepress@^0.14.1:
     version "0.14.11"
