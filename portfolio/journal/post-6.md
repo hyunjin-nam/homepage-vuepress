@@ -21,7 +21,7 @@ In this post, I would like to introduce some bookstores in Sweden where I really
 
 
 ## Serieslussen Comicstrip
-### Bellmansgatan 26, 118 47 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ467aVeR3X0YRLfAaBRhWRFE&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 
 This is a comic book store where classic comic lovers would like to go. Since this is second-hand bookstores, the prices were quite affordable, comic book starting from 10 Kroner. I guess it can be the easy and nice way to start learning Swedish with those old Swedish comic books!
 
@@ -30,7 +30,7 @@ This is a comic book store where classic comic lovers would like to go. Since th
 ![](/upload/bookstore/1-2.jpg)
 
 ## Poesihörnan
-### Mariatorget 7-3, 118 48 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJrfkPseV3X0YRWJgJLV4Z3uU&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 
 Unfortunately, this place has only a few English books in this stores. If you can read in Swedish, then you will really like this bookstore. Still, there were many books that attracted me even only with the book cover.
 
@@ -39,7 +39,8 @@ Unfortunately, this place has only a few English books in this stores. If you ca
 ![](/upload/bookstore/2-2.jpg)
 
 ## Papercut AB
-### Krukmakargatan 24, 118 51 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJYedSzed3X0YRxCMrpPUyREU&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
+
 These independent bookstore deals with magazines that catch the eyes. All the magazines seemed interesting and there were many books in English as well as Swedish. I would like to recommend this place to people who just came to Sweden. Since there many books that tell about Swedish culture and places, I am sure these books will teach you a lot about Sweden in a short time, and of course, it will be the perfect souvenir. I bought 'Way of Seeing' by John Berger from here.
 
 ![](/upload/bookstore/3-1.jpg)
@@ -50,7 +51,7 @@ These independent bookstore deals with magazines that catch the eyes. 
 
 
 ## Konst-ig
-### Åsögatan 124, 116 24 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJBW7xfF6dX0YRaKZDClFnP0k&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 
 Konst-ig is a bookstore in So-Fo area which is well-known as hipster’s place in Stockholm. All books all about arts and photography. There is a shelve in this store that consists only with the books which are written by a Swedish artist. So if you have an interest in Swedish design or photography, then this is the right place for you! I bought a book that has a lot of photography that is taken in the subway. It is interesting to see people's ordinarlly life.
 
@@ -66,7 +67,7 @@ Konst-ig is a bookstore in So-Fo area which is well-known as hipster�
 
 
 ## Fotoantikvariat
-### Torkel Knutssonsgatan 31, 118 49 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJJWdNQOZ3X0YRTkBWsmrZ-fw&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 
 This is actually my favourite bookstore. Fotoantikvariat. As I am the person who really enjoys taking photos, books in this place were so attractive and interesting for me.
 
@@ -80,6 +81,7 @@ This is actually my favourite bookstore. Fotoantikvariat. As I am the�
 
 ## Antikvariat Hundörat
 ### Östgötagatan 20, 645 30 Stockholm
+<iframe width=100% height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJkVXx-p_-XkYR1vT9EaxP2bg&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 
 Antikvariat Hundörat is the second-hand bookstores in Södermalm.   
 
