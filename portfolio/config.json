@@ -13,6 +13,12 @@
       "external": false
     },
     {
+      "text": "Journal",
+      "link": "/journal/",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "GitHub",
       "link": "https://github.com/hyunjin-nam",
       "position": "right",
