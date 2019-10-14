@@ -1,9 +1,23 @@
+
 <template>
   <div class="journal-list">
-    <div v-for="post in journal" :key="post.title" class="post">
-      <router-link tag="h2" :to="post.path" class="title">{{ post.frontmatter.title }}</router-link>
-      <p>{{ post.frontmatter.excerpt }}</p>
-    </div>
+
+    <router-link
+      :to="post.path"
+      tag="div"
+      v-for="post in journal"
+      :key="post.title"
+      class="post"
+      :style="{ backgroundImage: `url(${post.frontmatter.thumbnail})` }"
+    >
+
+      <div class="info">
+        <h2>{{ post.frontmatter.title }}</h2>
+        <span v-if="post.frontmatter.description">{{ post.frontmatter.description }}</span>
+      </div>
+
+    </router-link>
+
   </div>
 </template>
 
@@ -20,24 +34,42 @@
 </script>
 
 <style scoped>
-  .title {
+
+  .post {
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 5vw;
     cursor: pointer;
   }
-  .post {
-    padding: 2rem 0;
-    border-bottom: 1px solid #eee;
+
+  .info {
+    position: absolute;
+    left: 0;
+    top: 2rem;
+    padding: 0.3rem 0.8rem;
+    background: rgba(255,255,255, 1);
+    max-width: 400px;
+    opacity: 0.85;
   }
-  .post:last-of-type {
-    border: 0;
-  }
-  .post h2 {
-    margin: 0 0 1rem 0;
-  }
-  .post h2:hover {
-    opacity: 0.6;
-  }
-  .post p {
+
+  .info h2 {
+    display: inline-block;
+    width: auto;
+    font-size: 0.8rem;
+    font-weight: 700;
     margin: 0;
-    color: #333;
   }
+
+  .info span {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    margin-left: 0.5rem;
+    font-size: 0.8rem;
+  }
+
 </style>

@@ -1,6 +1,8 @@
 ---
 title: Flogsta Scream 📣
 date: 2018-10-02 18:05:37 +0000
+thumbnail: "/upload/flogsta/flogsta1.jpg"
+description: Every night 10pm
 
 ---
 

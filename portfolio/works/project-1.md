@@ -23,3 +23,7 @@ The aim of this study is to develop a statistical model to predict type 2 diabet
 
 
 
+
+
+
+

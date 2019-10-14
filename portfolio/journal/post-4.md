@@ -1,7 +1,8 @@
 ---
 title: Karl Johan and Kantarell 🍄
 date: 2018-10-01 18:05:37 +0000
-
+thumbnail: "/upload/marshroom/img4.jpg"
+description: Mushroom Picking, Best thing to do in Sweden in Autumn
 ---
 # Mushroom Picking, Best thing to do in Sweden in Autumn
 

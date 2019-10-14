@@ -22,7 +22,7 @@ sections:
   create: all
   match: "**/[!index]*"
   templates:
-  - journal
+  - works
 - type: heading
   label: Data
 - type: document
