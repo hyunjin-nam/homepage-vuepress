@@ -1,11 +1,6 @@
 ---
 title: Artipelag 🏝
 date: 2018-09-01 00:00:00 +0000
-thumbnail: "/upload/artipelag/img0.jpg"
-year: 2018
-description: Blog Post
-categories:
-- blog
 
 ---
 # Artipelag, My favourite museum in Sweden
