@@ -13,7 +13,7 @@ description: Three best ice-cream places in Stockholm
 ## 1. SNÖ
 ![](/upload/icecream/icecream3.jpg)
 
-My favourite ice-cream place in Stockholm. There is a great selection of flavours with unique combinations such as the combination of vanilla, banana, and cola. Usually, there is a long queue to buy this ice cream. I think the best part of this place is their waffle corn👌 Very much soft and sweet that will refresh your mouth even after finishing your ice-cream. I would like to recommend you to try this place with waffle corn and walk around the park that is right in front of this store 🙆🏻‍!
+My favourite ice-cream place in Stockholm. There is a great selection of flavours with unique combinations such as the combination of vanilla, banana, and cola. Usually, there is a long queue to buy this ice cream. I think the best part of this place is their waffle cone👌 Very much soft and sweet that will refresh your mouth even after finishing your ice-cream. I would like to recommend you to try this place with waffle cone and walk around the park that is right in front of this store 🙆🏻‍!
 
 <iframe width=100% height="300"  frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJWQUai3qdX0YRrvJVHqTN9AM&key=AIzaSyD3Miatf370bzoV9-KeUxODyp2hmCC_foY" allowfullscreen></iframe>
 

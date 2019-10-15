@@ -50,7 +50,7 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
 `Digital Ambassador`
 ##### Studyinsweden is an organization built and maintained by the swedish institute(svenska institutet) and is tasked with promoting Sweden for prospective international students abroad. We provide contents regarding the Swedish higher education system, finding and applying for a programme, searching for scholarships, living as an international student in Sweden and learning Swedish.
 
-##### I was part of blog and Instagram team as a digital ambassador, responsible for writing blog posts for the Study in Sweden blog. Also My responsibilities included managing the official instagram  [{@Studyinsweden](https://www.instagram.com/studyinsweden/) for posting photos, uploading stories and taking part in Live broadcasts. I also responded to user comments and answer e-mail questions from prospective students.
+##### I was part of blog and Instagram team as a digital ambassador, responsible for writing blog posts for the Study in Sweden blog. Also My responsibilities included managing the official instagram  [@Studyinsweden](https://www.instagram.com/studyinsweden/) for posting photos, uploading stories and taking part in Live broadcasts. I also responded to user comments and answer e-mail questions from prospective students.
 
 <Hero :text="$page.frontmatter.hero_text" />
 <WorksList />
