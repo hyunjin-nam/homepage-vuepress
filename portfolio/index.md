@@ -40,7 +40,15 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
 
 
 ## Experience
- **Byon8** *Jan 2019 - Present* 
+
+ **Tele2** *Nov 2019 - Present* 
+ `Junior Data Analyst`
+ ##### Tele2 AB is a European telecommunications operator headquartered in the Kista Science City, Stockholm, Sweden. We are providing Mobile service, Telephony, Digital TV, and Broadband. We are one of the major telephone operator in the Nordic and Baltic countries and an alternative provider in many others, with about 17 million customers in 8 countries.
+ 
+##### I am a Data Analyst in Tele2 Commercial Analytics team within Commercial B2C. I am specialized in analyzing customer base data. By using a statistical approach I define the target market for Tele2 and Comhem products such as Mobile, Broadband, TV, Telephony. Tasks are mainly related to B2C commercial such as testing the effect of the campaign, build prediction models for customer's churn.
+ 
+
+ **Byon8** *Jan 2019 - Nov 2019* 
  `AI Developer`
  ##### Byon8 is a health tech company using artificial intelligence in medical diagnostics. With our product AITOPYA, healthcare professionals are provided with diagnostic suggestions from AI engine to ensure secure diagnoses, recommendations and treatments. Also, we are working for de-centralized health care service, currently in the process of providing several services to developing countries such as Uganda.
 
