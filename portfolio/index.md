@@ -1,15 +1,16 @@
 ---
 works_index: true
-1hero_text: "I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create content."
+1hero_text: "I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create contents."
 title: Data
 permalink: /
 
 ---
 
 
-<h1 align="center"> I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create content. </h1>
+<h1 align="center"> I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create contents. </h1>
 
-I am a data scientist with a background in <strong>statistics</strong>, working mainly with Python and R. I specialize in machine learning applications in <strong>digital health</strong>. By using a statistical approach, I am building a predictive model to help physicians and health professionals in the diagnosing patients. I enjoy <strong>machine learning</strong>, web programming, and play around with data. Please check more about me below 👇
+I am a data scientist with a background in <strong>statistics</strong>, working mainly with Python and R. I specialize in machine learning applications in <strong>customers based analysis</strong>. By using a statistical approach, I am defending customers value and find target market. I enjoy <strong>machine learning</strong>, web programming, and play around with data. Please check more about me below 👇
+
 
 
 
@@ -24,7 +25,7 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
         }],
       "skills" : [{
         "programming" : ["Python" 🐍, "R", "SAS"],
-        "databases" : ["MySQL", "MongoDB", "PostgreSQL", "AWS"],
+        "databases" : ["SQL", "MongoDB", "AWS"],
         "data analysis": ["TensorFlow", "Pandas" 🐼, "Numpy", "Matplotlib", "Scikit-learn" 📊],
         "web development": ["Vuepress" 🌐, "HTML5", "CSS", "jQuery"],
         "others": ["Tableau" 📈, "Adobe Premiere", "Adobe Lightroom" ⚡, "Adobe Photoshop" 📸]
@@ -43,9 +44,9 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
 
  **Tele2** *Nov 2019 - Present* 
  `Junior Data Analyst`
- ##### Tele2 AB is a European telecommunications operator headquartered in the Kista Science City, Stockholm, Sweden. We are providing Mobile service, Telephony, Digital TV, and Broadband. We are one of the major telephone operator in the Nordic and Baltic countries and an alternative provider in many others, with about 17 million customers in 8 countries.
+ ##### Tele2 AB is a European telecommunications operator headquartered in Stockholm, Sweden. We are providing Mobile service, Telephony, Digital TV, and Broadband. We are one of the major telephone operator in the Nordic and Baltic countries and an alternative provider in many others, with about 17 million customers in 8 countries.
  
-##### I am a Data Analyst in Tele2 Commercial Analytics team within Commercial B2C. I am specialized in analyzing customer base data. By using a statistical approach I define the target market for Tele2 and Comhem products such as Mobile, Broadband, TV, Telephony. Tasks are mainly related to B2C commercial such as testing the effect of the campaign, build prediction models for customer's churn.
+##### I am a Data Analyst in Tele2 Commercial Analytics team within Commercial B2C. I am specialized in analyzing customer base data. By using a statistical approach I define the target market for mainly Comhem products such as Mobile, Broadband, TV, Telephony. Tasks are mainly related to B2C commercial such as testing the effect of the campaign.
  
 
  **Byon8** *Jan 2019 - Nov 2019* 
