@@ -43,6 +43,4 @@ portfolio_index: true
 
 ![](/upload/portfolio/20.JPG)
 
-![](/upload/portfolio/21.JPG)
-
 
