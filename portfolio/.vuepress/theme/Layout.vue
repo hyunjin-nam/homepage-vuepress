@@ -35,6 +35,17 @@
         <Content/>
       </div>
 
+      <!-- Portfolio list -->
+      <div v-if="$route.path === '/portfolio/'" class="portfolio-list">
+        <Content />
+      </div>
+
+      <!-- Single Portfolio -->
+      <div v-if="isSinglePortfolio" class="single-portfolio">
+        <Content/>
+      </div>
+
+
     </div>
 
     <Footer />

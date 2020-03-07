@@ -19,14 +19,14 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "link": "https://github.com/hyunjin-nam",
-      "position": "right",
-      "external": true
+      "text": "Portfolio",
+      "link": "/portfolio/",
+      "position": "left",
+      "external": false
     },
     {
-      "text": "Instagram",
-      "link": "https://www.instagram.com/hyunjinnam0.0",
+      "text": "GitHub",
+      "link": "https://github.com/hyunjin-nam",
       "position": "right",
       "external": true
     },
