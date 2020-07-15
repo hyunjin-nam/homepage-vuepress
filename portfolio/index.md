@@ -9,8 +9,7 @@ permalink: /
 
 <h1 align="center"> I'm <strong>Hyunjin Nam</strong>, a data scientist who likes to create contents. </h1>
 
-I am a data scientist with a background in <strong>statistics</strong>, working mainly with Python and R. I specialize in machine learning applications in <strong>customers based analysis</strong>. By using a statistical approach, I am defending customers value and find target market. I enjoy <strong>machine learning</strong>, web programming, and play around with data. Please check more about me below 👇
-
+I am a data scientist with a background in <strong>statistics</strong>, working mainly with Python and R. I specialize in machine learning applications in <strong>customers based analysis</strong>. By using a statistical approach, I am defining customers value and find target market. I enjoy <strong>machine learning</strong>, web programming, and play around with data. Please check more about me below 👇
 
 
 
@@ -41,6 +40,10 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
 
 
 ## Experience
+
+ **Hansung University** *July 2020 - Dec 2020* 
+ `Course Instructor`
+  ##### I am a course instructor at Hansung University teaching "Basic Statistics and Data Science with R" course. The course is a complete beginners course aim to learn basic statistics and apply data analysis skills in practice with R.  It trains to give students the complete skill set to be able to step into the data science world dealing with data with their own algorithm. The lectures are investigating essential statistics skills such as data handling(Dplyr), visualization(Ggplot2), T-test, and logistic regression(GLM). The course is consists of 7 online lectures includes laboratory sessions with R. It is available for Hansung University student who is in their first or second year of bachelor's programme. 
 
  **Tele2** *Nov 2019 - Present* 
  `Junior Data Analyst`
