@@ -43,7 +43,7 @@ I am a data scientist with a background in <strong>statistics</strong>, working 
 
  **Hansung University** *July 2020 - Dec 2020* 
  `Course Instructor`
-  ##### I am a course instructor at Hansung University teaching "Basic Statistics and Data Science with R" course. The course is a complete beginners course aim to learn basic statistics and apply data analysis skills in practice with R.  It trains to give students the complete skill set to be able to step into the data science world dealing with data with their own algorithm. The lectures are investigating essential statistics skills such as data handling(Dplyr), visualization(Ggplot2), T-test, and logistic regression(GLM). The course is consists of 7 online lectures includes laboratory sessions with R. It is available for Hansung University student who is in their first or second year of bachelor's programme. 
+  ##### I am a course instructor at Hansung University teaching "Basic Statistics and Data Science with R" course. The course is a complete beginners course aims to learn basic statistics and apply data analysis skills in practice with R. It trains students to have the complete skill set to be able to step into the data science world dealing with data with their own algorithm. The lectures are investigating essential statistics skills such as data handling(Dplyr), visualization(Ggplot2), T-test, and logistic regression(GLM). The course is consists of 7 online lectures includes laboratory sessions with R. It is available for Hansung University student who is in their first or second year of bachelor's programme.  
 
  **Tele2** *Nov 2019 - Present* 
  `Junior Data Analyst`
