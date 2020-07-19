@@ -15,4 +15,4 @@ categories:
 
 ## 강의 자료
 강의 계획서 [syllabus.pdf](/upload/course/syllabus.pdf) <br/>
-Lecture 1 [lecture1.pdf](/upload/course/lecture1.pdf) 
+Lecture 1 [lecture1.pdf](/upload/course/Lecture1.pdf) 
