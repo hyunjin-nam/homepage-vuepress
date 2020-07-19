@@ -144,9 +144,16 @@
   }
 
   h1,h2,h3,h4,h5,h6,p {
+    width: 90%;
+    max-width: 1000px;
+  }
+  @media screen and (max-width: 600px) {
+    h1,h2,h3,h4,h5,h6,p {
     width: 100%;
     max-width: 800px;
+    }
   }
+
 
   h1 {
     font-size: 3rem;
@@ -197,6 +204,10 @@
 
   em {
     font-size: 0.8rem;
+
+  }
+
+  .table p {
 
   }
 
