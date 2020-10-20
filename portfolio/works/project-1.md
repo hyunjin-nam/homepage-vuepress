@@ -53,11 +53,10 @@ categories:
 
 ## 강의 자료
 강의 계획서 [syllabus.pdf](/upload/course/syllabus.pdf) <br/>
-Lecture 1 [lecture1.pdf](/upload/course/L1.pdf) <br/>
-Lecture 2 [lecture1.pdf](/upload/course/L2.pdf) <br/>
-Lecture 3 [lecture1.pdf](/upload/course/L3.pdf) <br/>
-Lecture 4 [lecture1.pdf](/upload/course/L4.pdf) <br/>
-Lecture 5 [lecture1.pdf](/upload/course/L5.pdf) <br/>
-Lecture 6 [lecture1.pdf](/upload/course/L6.pdf) <br/>
-Lecture 7 [lecture1.pdf](/upload/course/L7.pdf) <br/>
-
+Lecture 1 [lecture1.pdf](portfolio/.vuepress/public/upload/course/L1.pdf) <br/>
+Lecture 2 [lecture2.pdf](portfolio/.vuepress/public/upload/course/L2.pdf) <br/>
+Lecture 3 [lecture3.pdf](/upload/course/L3.pdf) <br/>
+Lecture 4 [lecture4.pdf](/upload/course/L4.pdf) <br/>
+Lecture 5 [lecture5.pdf](/upload/course/L5.pdf) <br/>
+Lecture 6 [lecture6.pdf](/upload/course/L6.pdf) <br/>
+Lecture 7 [lecture7.pdf](/upload/course/L7.pdf) <br/>
