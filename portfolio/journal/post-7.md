@@ -1,7 +1,7 @@
 ---
 title: Sweden Wiki, 쌀 Rice Ris 🍚
 date: 2018-10-28 18:05:37 +0000
-thumbnail: "/upload/wiki/rice/rice.jpeg"
+thumbnail: "/upload/wiki/rice/rice.jpg"
 description: 스웨덴 살이 어렵지 않아요.
 
 ---
@@ -23,7 +23,9 @@ description: 스웨덴 살이 어렵지 않아요.
 
 한국 마트에 가면 살수 있다고 한다.
 
----
+
+
+
 
 # 밥과 같이 먹으면 좋은 곡물들
 
@@ -31,15 +33,13 @@ description: 스웨덴 살이 어렵지 않아요.
 
 ### 보리 Barley *Korn*
 
-![%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled.png](%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled.png)
+
 
 ### 귀리 Oat *Havre*
 
-![%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled%201.png](%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled%201.png)
 
 ### 수수 Sorghum *Durra*
 
-[]()
 
 ### 흑미 Black rice *Svartris*
 
@@ -47,7 +47,6 @@ description: 스웨덴 살이 어렵지 않아요.
 
 ### 기장 Millet *Hirs*
 
----
 
 # 기타 등등
 
@@ -55,4 +54,3 @@ description: 스웨덴 살이 어렵지 않아요.
 
 아시안 마트에서 구할 수 있는 찹살 가루다. 
 
-![%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled%202.png](%E1%84%8A%E1%85%A1%E1%86%AF%208c32166f8c9a4f7cb235cac214298f5d/Untitled%202.png)
