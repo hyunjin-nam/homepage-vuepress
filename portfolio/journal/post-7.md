@@ -1,7 +1,7 @@
 ---
 title: Sweden Wiki, 쌀 Rice Ris 🍚
 date: 2018-10-28 18:05:37 +0000
-thumbnail: "/upload/rice/rice.jpeg"
+thumbnail: "/upload/rice/img1.jpg"
 description: 스웨덴 살이 어렵지 않아요.
 ---
 
