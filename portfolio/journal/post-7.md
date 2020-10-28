@@ -1,9 +1,8 @@
 ---
 title: Sweden Wiki, 쌀 Rice Ris 🍚
 date: 2018-10-28 18:05:37 +0000
-thumbnail: "/upload/wiki/rice/rice.jpg"
+thumbnail: "/upload/rice/rice.jpeg"
 description: 스웨덴 살이 어렵지 않아요.
-
 ---
 
 
@@ -29,7 +28,7 @@ description: 스웨덴 살이 어렵지 않아요.
 
 # 밥과 같이 먹으면 좋은 곡물들
 
-## 곡물 *whole grain rice* *fullkornsris*
+## 곡물 whole grain rice *fullkornsris*
 
 ### 보리 Barley *Korn*
 
@@ -49,7 +48,6 @@ description: 스웨덴 살이 어렵지 않아요.
 
 
 # 기타 등등
-
 ### 찹쌀가루 Glutinous rice flour *Glutinöst rismjöl*
 
 아시안 마트에서 구할 수 있는 찹살 가루다. 
