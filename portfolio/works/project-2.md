@@ -1,7 +1,7 @@
 ---
 title: Artificial intelligence in medical diagnositcs
 date: 2019-06-01 00:00:00 +0000
-thumbnail: "/upload/blogpost1/img0.jpg"
+thumbnail: "/upload/cover/img0.jpg"
 year: 2019.01 - 
 categories:
 - Byon8
