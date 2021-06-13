@@ -1,7 +1,7 @@
 ---
 title: Digital Ambassador
 date: 2018-10-01 18:05:37 +0000
-thumbnail: "/upload/SI/img0.jpg"
+thumbnail: "/upload/cover/img1.jpg"
 year: 2017.09 - 2019.06
 description: Swedish Institute
 categories:
@@ -24,4 +24,15 @@ You can find more about my blog post on the official Studyinsweden site below ðŸ
   <p> Click  <a href="http://blogs.studyinsweden.se/author/hyunjin/"> to reach the page!</a></p>
 </object>
 
+
+
+<iframe src="http://blogs.studyinsweden.se/author/hyunjin/"
+        width="100%" height="500" frameborder="0"
+        allowfullscreen sandbox>
+  <p>
+    <a href="http://blogs.studyinsweden.se/author/hyunjin/">
+       Fallback link for browsers that don't support iframes
+    </a>
+  </p>
+</iframe>
 
