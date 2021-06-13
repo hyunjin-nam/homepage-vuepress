@@ -15,3 +15,8 @@ You can read about my journal post on the-edit website below 👇
 </object>
 
 
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+ width=100% height="700px"
+    src="http://the-edit.co.kr/38823">
+</iframe>

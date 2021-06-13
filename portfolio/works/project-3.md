@@ -24,15 +24,10 @@ You can find more about my blog post on the official Studyinsweden site below ðŸ
   <p> Click  <a href="http://blogs.studyinsweden.se/author/hyunjin/"> to reach the page!</a></p>
 </object>
 
-
-
-<iframe src="http://blogs.studyinsweden.se/author/hyunjin/"
-        width="100%" height="500" frameborder="0"
-        allowfullscreen sandbox>
-  <p>
-    <a href="http://blogs.studyinsweden.se/author/hyunjin/">
-       Fallback link for browsers that don't support iframes
-    </a>
-  </p>
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+ width=100% height="700px"
+    src="http://blogs.studyinsweden.se/author/hyunjin/">
 </iframe>
+
 
