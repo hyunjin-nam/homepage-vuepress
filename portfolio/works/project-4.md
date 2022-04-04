@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Tableau dashboard
 date: 2018-10-01 18:05:37 +0000
-thumbnail: "/upload/cover/img3.jpg"
+thumbnail: "/upload/cover/img3.jpeg"
 year: 2017.09 - 2019.06
 description: Tableau dashboard
 categories:
