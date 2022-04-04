@@ -30,4 +30,8 @@ You can find more about my blog post on the official Studyinsweden site below ðŸ
     src="http://blogs.studyinsweden.se/author/hyunjin/">
 </iframe>
 
-
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+ width=100% height="700px"
+    src="https://public.tableau.com/views/CoronavirusCOVID-19Cases_16490914169690/COVID-19GlobalView?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">
+</iframe>
