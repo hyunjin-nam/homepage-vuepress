@@ -13,18 +13,6 @@
       "external": false
     },
     {
-      "text": "Journal",
-      "link": "/journal/",
-      "position": "left",
-      "external": false
-    },
-    {
-      "text": "Portfolio",
-      "link": "/portfolio/",
-      "position": "left",
-      "external": false
-    },
-    {
       "text": "GitHub",
       "link": "https://github.com/hyunjin-nam",
       "position": "right",
@@ -38,7 +26,7 @@
     },
     {
       "text": "Download CV",
-      "link": "/upload/document-cv.pdf",
+      "link": "/upload/document_cv.pdf",
       "position": "right",
       "external": true
     },
