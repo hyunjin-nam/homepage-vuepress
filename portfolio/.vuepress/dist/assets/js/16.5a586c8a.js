@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{301:function(t,n,o){"use strict";o.r(n);var s=o(24),l=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("img",{attrs:{src:"/upload/journal/photo2.jpg",alt:""}})])])}),[],!1,null,null,null);n.default=l.exports}}]);

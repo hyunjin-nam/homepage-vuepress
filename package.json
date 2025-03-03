@@ -7,11 +7,15 @@
   "author": "Nichlas W. Andersen",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^0.14.1",
-    "webpack-dev-middleware": "3.6.0"
+    "markdown-it-imsize": "^2.0.1",
+    "webpack-dev-middleware": "^7.4.2"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",
-    "@vuepress/plugin-register-components": "^1.0.0-rc.1"
+    "@vuepress/plugin-register-components": "^1.0.0-rc.1",
+    "sass": "^1.85.1",
+    "sass-loader": "^10.5.2",
+    "vuepress": "^1.9.10",
+    "vuepress-plugin-container": "^2.1.5"
   }
 }

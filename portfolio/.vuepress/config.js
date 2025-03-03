@@ -1,4 +1,5 @@
 const config = require('../config.json');
+
 module.exports = {
   plugins: {
     'clean-urls': {
@@ -20,7 +21,12 @@ module.exports = {
   markdown: {
     anchor: {
       permalink: false
+    },
+    extendMarkdown: md => {
+      md.use(require('markdown-it-imsize'))
     }
-  }
+  },
+  enhanceAppFiles: [
+    require.resolve('./styles/index.css'),  // Ensure the path to your custom index.scss is correct
+  ],
 };
-
