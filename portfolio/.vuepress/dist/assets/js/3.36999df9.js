@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{269:function(t,s,n){},279:function(t,s,n){"use strict";n(269)},310:function(t,s,n){"use strict";n.r(s);n(279);var e=n(24),i=Object(e.a)({},(function(){return(0,this._self._c)("span",{staticClass:"text"},[this._v(this._s(this.$site.themeConfig.footer))])}),[],!1,null,"c3fce3fe",null);s.default=i.exports}}]);

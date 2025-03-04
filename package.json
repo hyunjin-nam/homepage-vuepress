@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "markdown-it-imsize": "^2.0.1",
+    "marked": "^15.0.7",
     "webpack-dev-middleware": "^7.4.2"
   },
   "devDependencies": {

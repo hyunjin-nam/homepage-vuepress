@@ -72,4 +72,31 @@
     font-size: 0.8rem;
   }
 
+  .info li {
+    display: inline-block;
+    width: auto;
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin: 0;
+    color: red;
+  }
+
+  .info ul {
+    padding-left: 20px;
+    color: blue;
+  }
+
+  .info li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+    color: yellow;
+  }
+
+  .info ul {
+    list-style-type: disc;
+    margin-bottom: 5px;
+    color: gray;
+  }
+
+
 </style>
